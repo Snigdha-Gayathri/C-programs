@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "format": "cpp",
+        "exception": "cpp",
+        "ios": "cpp",
+        "istream": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp",
+        "list": "cpp",
+        "optional": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "travellingsalesman": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "git.ignoreLimitWarning": true
+}
